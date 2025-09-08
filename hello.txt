@@ -1,6 +1,5 @@
-<<<<<<< Updated upstream
-hello text in test environment
-
+<<<<<<< Updated upstream hello text in test environment
+new content in this file from gitbash
 =======
 hello text
 input from vscode
